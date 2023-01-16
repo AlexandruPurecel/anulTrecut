@@ -1,0 +1,3 @@
+Cheetah%Acinonyx jubatus%carnivore%asia
+Giraffe%Giraffa camelopardalis%herbivore%africa
+Red Panda%Ailurus fulgens%omnivore%asia

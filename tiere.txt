@@ -1,0 +1,3 @@
+Giraffe#Giraffa camelopardalis#herbivore#africa
+Cheetah#Acinonyx jubatus#carnivore#asia
+Red Panda#Ailurus fulgens#omnivore#asia
